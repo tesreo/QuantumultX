@@ -32,6 +32,7 @@ DOMAIN-KEYWORD,tumblr,Proxy
 DOMAIN-KEYWORD,twitch,Proxy
 DOMAIN-KEYWORD,wordpress,Proxy
 DOMAIN-SUFFIX,bit.ly,Proxy
+DOMAIN-SUFFIX,t.co,Proxy
 # 数字货币
 DOMAIN-KEYWORD,debank,Proxy
 DOMAIN-KEYWORD,binance,Proxy
