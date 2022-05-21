@@ -25,3 +25,8 @@ DOMAIN-KEYWORD,usage,REJECT-TINYGIF
 DOMAIN-SUFFIX,vungle.com,REJECT-TINYGIF
 DOMAIN-KEYWORD,wlmonitor,REJECT-TINYGIF
 DOMAIN-KEYWORD,zjtoolbar,REJECT-TINYGIF
+
+host-suffix,api-access.pangolin-sdk-toutiao-b.com,REJECT
+host-suffix,apoll.m.taobao.com,REJECT
+host-suffix,comet.yahoo.com,REJECT
+host-suffix,gemini.yahoo.com,REJECT
